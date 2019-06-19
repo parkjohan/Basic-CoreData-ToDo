@@ -13,6 +13,7 @@
 		98A4A2EF22BA34C200A92FC0 /* CoreData_ToDo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 98A4A2ED22BA34C200A92FC0 /* CoreData_ToDo.xcdatamodeld */; };
 		98A4A2F122BA34C300A92FC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98A4A2F022BA34C300A92FC0 /* Assets.xcassets */; };
 		98A4A2F422BA34C300A92FC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98A4A2F222BA34C300A92FC0 /* LaunchScreen.storyboard */; };
+		98A4A2FC22BAB43000A92FC0 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A4A2FB22BAB43000A92FC0 /* AddTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		98A4A2F022BA34C300A92FC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98A4A2F322BA34C300A92FC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		98A4A2F522BA34C300A92FC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98A4A2FB22BAB43000A92FC0 /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				98A4A2E622BA34C200A92FC0 /* AppDelegate.swift */,
 				98A4A2E822BA34C200A92FC0 /* ViewController.swift */,
+				98A4A2FB22BAB43000A92FC0 /* AddTaskViewController.swift */,
 				98A4A2EA22BA34C200A92FC0 /* Main.storyboard */,
 				98A4A2F022BA34C300A92FC0 /* Assets.xcassets */,
 				98A4A2F222BA34C300A92FC0 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98A4A2EF22BA34C200A92FC0 /* CoreData_ToDo.xcdatamodeld in Sources */,
+				98A4A2FC22BAB43000A92FC0 /* AddTaskViewController.swift in Sources */,
 				98A4A2E922BA34C200A92FC0 /* ViewController.swift in Sources */,
 				98A4A2E722BA34C200A92FC0 /* AppDelegate.swift in Sources */,
 			);
